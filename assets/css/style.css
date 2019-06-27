@@ -112,11 +112,17 @@ p   {
 }
 #form   {
     text-align: left;
+    background-color: white;
+    border-top-width: 2px;
+    border-top-color: #dddddd;
+    border-top-style: solid;
+    padding-top: 15px;
 }
 #main-contact   {
     color: #4aaaa5;
     background-color: white;
     text-align: left;
+    margin-bottom: 15px;
 }
 #submit {
     color:  #ffffff;
@@ -125,7 +131,7 @@ p   {
     height: 25px;
 }
 #message    {
-    height: 80px;
+    height: 100px;
     width: 560px;
 }
 .name-email {
@@ -136,4 +142,9 @@ p   {
     margin: auto;
     overflow: auto;
 }
-
+#main-portfolio   {
+    color: #4aaaa5;
+    background-color: white;
+    text-align: left;
+    margin-bottom: 15px;
+}
